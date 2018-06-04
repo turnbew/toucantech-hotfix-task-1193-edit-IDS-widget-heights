@@ -1,23 +1,22 @@
-TASK's DATE: 21.11.2017 - FINISHED: 22.11.2017 
+FOR PRIVACY AND CODE PROTECTING REASONS THIS IS A SIMPLIFIED VERSION OF CHANGES AND NEW FEATURES
 
-TASK's LEVEL: EASY - symple css manipulation
+TASK DATE: 21.11.2017 - FINISHED: 22.11.2017 
+
+TASK LEVEL: EASY - symple css manipulation
 
 TASK SHORT DESCRIPTION: 1193 (OK HUB (ids-ok-hub) & Eldis Job feed (ids-job-widget-container) widgets to be made smaller height wise. Use same height as 'search for people' widget.)
-
+	
 GITHUB REPOSITORY CODE: hotfix/task-1193-edit-IDS-widget-heights
-
-ORIGINAL WORK: https://github.com/BusinessBecause/network-site/tree/hotfix/task-1193-edit-IDS-widget-heights
-
 
 CHANGES
  
 	IN FILES: 
 	
-		\network-site\addons\default\themes\toucantechV2\views\partials\nb_metadata.html
-		\network-site\addons\default\themes\toucantechV2\views\partials\metadata.html
-		\network-site\addons\default\themes\networkbecause\views\partials\metadata.html
-		\network-site\addons\default\themes\businessbecause\views\partials\nb_metadata.html
-		\network-site\addons\default\themes\businessbecause\views\partials\metadata.html
+		nb_metadata.html
+		metadata.html
+		metadata.html
+		nb_metadata.html
+		metadata.html
 		
 		
 			ADDED CODE: 
@@ -26,9 +25,9 @@ CHANGES
 	
 		ADDED NEW FILE: 
 		
-			\network-site\addons\default\themes\toucantechV2\css\widget-manupulation.css
-			\network-site\addons\default\themes\networkbecause\css\widget-manupulation.css
-			\network-site\addons\default\themes\businessbecause\css\widget-manupulation.css
+			widget-manupulation.css
+			\widget-manupulation.css
+			widget-manupulation.css
 			
 			CODE IN IT: 
 					
